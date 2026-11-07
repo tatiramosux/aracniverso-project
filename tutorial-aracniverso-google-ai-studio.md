@@ -1,7 +1,7 @@
 # 🕷️ Aracniverso — Crie seu app com o Google AI Studio
 
 **Projeto STEAM · Alcateia Robótica**
-**Para:** jovens de 11 a 14 anos que estão começando com IA e robótica
+**Para:** jovens que estão começando com IA e robótica
 **Tempo estimado:** 90 a 120 minutos (ideal em 2 ou 3 encontros)
 **Resultado:** uma **demonstração** (prova de conceito) do app **Aracniverso**, igual ao da apresentação da equipe, com **dados fictícios**, **sem banco de dados** e **só durante a sessão**.
 
@@ -79,7 +79,7 @@ Cole o prompt abaixo (ou escreva com suas palavras):
 Crie um aplicativo web chamado "Aracniverso", com o lema "Conhecer para
 preservar". É uma DEMONSTRAÇÃO educativa feita por adolescentes (Projeto
 STEAM, Alcateia Robótica). Escreva tudo em português do Brasil, com
-linguagem simples para jovens de 11 a 14 anos.
+linguagem simples para jovens.
 
 REGRAS DA DEMONSTRAÇÃO:
 - Use SOMENTE dados fictícios escritos no próprio código.
@@ -245,7 +245,6 @@ Teste com 5 imagens e anote:
 - **Conexão com robótica:** sensor (câmera) → processamento (IA) → ação (resultado). Pergunte: "como um robô explorador usaria isso?"
 - **Conteúdo de saúde:** os textos de perigo e primeiros socorros do app são de demonstração. Antes de qualquer uso real, devem ser revisados por fontes oficiais (Ministério da Saúde, Instituto Butantan) e profissionais de saúde.
 - **Revisão da apresentação:** pequenos ajustes sugeridos nos slides: "Analizado" → "Analisado" (slide 3) e "abdomen" → "abdômen" (slide 5). No slide 4, "Informações precisas sobre risco" pode virar "Informações educativas", já que é uma demonstração.
-- **Adaptação por idade:** 11–12 anos, foco nos Passos 3, 4 e 7; 13–14 anos, todos os passos e o Desafio.
 
 ---
 
